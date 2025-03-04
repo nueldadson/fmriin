@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import AwesomeSlider from "react-awesome-slider";
 import "react-awesome-slider/dist/styles.css";
+import './hero.css';
 import "react-awesome-slider/dist/custom-animations/cube-animation.css";
 const HeroImg1 =
 	"https://res.cloudinary.com/dt1vxscki/image/upload/v1741106081/person-office-analyzing-checking_yc9lgr.webp";
