@@ -1,7 +1,7 @@
 // sitemapGenerator.js
 import fs from "fs";
 import path from "path";
-import { routes } from "./src/routesConfig.js"; // Note the .js extension
+import { routes } from "./src/routes.js"; // Note the .js extension
 
 const generateSitemap = (filename) => {
 	const baseUrl = "https://fmrin.com";
